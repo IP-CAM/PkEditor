@@ -16,6 +16,5 @@ define('DIR_HOME',$_SERVER['DOCUMENT_ROOT']);
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'username');
 define('DB_PASSWORD', 'password');
-define('DB_DATABASE', 'database')
-define('DB_PREFIX', 'pk_');
+define('DB_DATABASE', 'database');
 ?>
